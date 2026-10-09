@@ -1,48 +1,41 @@
-# portfolio
-korrawit.github.io/portfolio
-# Hi there 👋, I'm Korrawit Surachit
+# Korrawit Surachit
+### Data Scientist | Actuarial Science Specialist
 
-**Data Science Master's Student | Actuarial Science Graduate**
+## About Me
+Actuarial Science and Data Science Master's graduate combining statistical modeling with practical insurance experience. Previously worked as an Underwriter, utilizing VBA and advanced Excel to automate risk assessment workflows and validate policy calculations. I am looking to apply my background in actuarial logic and data analytics to solve complex problems, improve system accuracy, and deliver impactful insights in a data science, actuarial, or business analyst role.
 
-I blend statistical modeling with practical insurance experience. With a background as an Underwriter and a strong foundation in actuarial logic, I am passionate about utilizing data analytics to automate workflows, solve complex problems, improve system accuracy, and deliver impactful insights. 
+## Technical Skills
+* **Programming & Data Tools:** Python, SQL, Microsoft Excel (Advanced), VBA Macros (Proficient), Power BI.
+* **Domain Knowledge:** Actuarial Science, Life & Non-Life Insurance, Policy & Contract Setup, Risk Assessment, Premium Calculations.
+* **Professional Skills:** Analytical Problem-Solving, Cross-Functional Collaboration, Logical Thinking.
 
-## 🛠️ Skills & Tools
+## Featured Projects
+### Modeling Dependent Last Survival Annuity Using Copula (Master's Project)
+* Simulated last survivor annuity premiums via Monte Carlo methods, Archimedean copulas, and the Thai Life Table 2017 to account for spousal dependence.
+* Showed that including these factors reduced calculated premiums by up to 10% for elderly groups, highlighting potential mispricing risks in standard actuarial models.
 
-- **Programming Languages:** Python, SQL, VBA
-- **Data & Analytics Tools:** Advanced Microsoft Excel, Power BI
-- **Domain Knowledge:** Actuarial Science, Life & Non-Life Insurance, Risk Assessment, Premium Calculations, Policy & Contract Setup
-- **Soft Skills:** Analytical Problem-Solving, Cross-Functional Collaboration, Logical Thinking
+### VN30 Index Forecasting with Machine Learning (Bachelor's Thesis)
+* Built and trained a Long Short-Term Memory (LSTM) model to forecast the VN30 Index, demonstrating practical applications of machine learning in financial markets.
 
-## 🚀 Featured Projects & Experience
+## Education
+**Master of Science in Statistics and Data Science** 
+Chulalongkorn University, Bangkok, Thailand | Aug 2024 - Jul 2026
+* **GPAX:** 3.69
+* **Relevant Coursework:** Big Data Computing (A), Data Science in Business Analytics (A), Theory of Probability (A), Statistical Inference (A), Deep Learning (B+).
 
-### 📈 Modeling Dependent Last Survival Annuity Using Copula
-*Academic Project - Chulalongkorn University*
-- Simulated last survivor annuity premiums using Monte Carlo methods, Archimedean copulas, and the Thai Life Table 2017 to account for spousal dependence.
-- Demonstrated that incorporating these factors reduces calculated premiums by up to 10% for elderly groups, highlighting potential mispricing risks in standard actuarial models.
+**Bachelor of Science in Actuarial Science**
+Thammasat University, Pathum Thani, Thailand | Aug 2018 - Mar 2022
+* **Honors:** First Class Honors (GPA: 3.52)
+* **Relevant Coursework:** Mathematics of Life Contingency I & II (A). Built a strong foundation in life insurance premium and policy value calculations.
 
-### 🤖 VN30 Index Forecasting with Machine Learning
-*Bachelor's Thesis - Thammasat University*
-- Developed an LSTM (Long Short-Term Memory) neural network model to accurately forecast the VN30 stock market index.
+## Professional Experience
+**Underwriter | Thaivivat Insurance** 
+Bangkok, Thailand | Sep 2022 - Sep 2023
+* Assessed policy conditions and contract setups to determine risk levels and make appropriate approval decisions based on company underwriting guidelines.
+* Built and maintained VBA Macros to automate routine data extraction and underwriting tasks, significantly reducing manual effort and minimizing human error.
+* Created and tested Microsoft Excel formulas to adjust tariff factors across different insurance plans, ensuring accurate premium calculations for new policies.
+* Worked with cross-functional teams to investigate and resolve logic errors in policy renewals, ensuring data integrity for downstream risk assessment systems.
 
-### ⚙️ Insurance Underwriting Automation
-*Professional Experience - Thaivivat Insurance*
-- Built and maintained VBA Macros to automate routine data extraction and underwriting tasks, significantly reducing manual effort and minimizing human error.
-- Developed and tested complex Excel formulas to adjust tariff factors across various plans, ensuring accurate premium calculations for new policies.
-
-## 🎓 Education
-
-- **M.S. in Statistics and Data Science** | *Chulalongkorn University* (Aug 2024 - Present)
-  - *GPAX: 3.69* | *Key Coursework: Big Data Computing, Data Science in Business Analytics, Theory of Probability, Deep Learning.*
-- **B.S. in Actuarial Science (First Class Honors)** | *Thammasat University* (Aug 2018 - Mar 2022)
-  - *GPA: 3.52* | *Key Coursework: Mathematics of Life Contingency I & II.*
-
-## 📫 Connect with me
-
-- **Email:** korrawit.sur@gmail.com
-- **Location:** Bangkok, Thailand
-<!-- Uncomment and add your links below! -->
-<!-- - **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/yourprofile) -->
-<!-- - **Portfolio:** [Your Personal Website](https://yourwebsite.com) -->
-
----
-⭐️ *Feel free to explore my repositories to see my data science and programming projects in action!*
+## Contact
+* **Email:** korrawit.sur@gmail.com
+* **LinkedIn:** [Add your LinkedIn URL here]
